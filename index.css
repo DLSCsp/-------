@@ -1,0 +1,25 @@
+.div1 {
+    margin: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    width: 70%;
+    box-shadow: 1px 1px 5px #ccc;
+    background-color: #f0ffff;
+    padding: 30px;
+    border-radius: 15px;
+    background-image: linear-gradient(to right, #f8eded, #e2d3d3)
+}
+
+.img {
+    border-radius: 50px;
+    box-shadow: 7px 7px 7px #ccc;
+    width: 100%;    
+}
+
+.inv {
+    color: black;
+}
+
+body {
+    background-color: black;
+}
